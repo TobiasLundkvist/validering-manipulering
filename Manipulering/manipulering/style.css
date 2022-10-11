@@ -1,0 +1,11 @@
+.box {
+    background-color: aqua;
+    padding: 1.5rem;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.required {
+    color: red;
+}
